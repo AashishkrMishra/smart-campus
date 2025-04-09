@@ -74,13 +74,6 @@ Our system leverages Machine Learning to bring smart, sustainable improvements t
 
 ---
 
-## 📬 Contact
-
-Have suggestions or want to collaborate?  
-📧 [ayushdwibedy123@gmail.com](mailto:ayushdwibedy123@gmail.com)
-
----
-
 ## 🌟 Give it a Star!
 
 If you like the project, don’t forget to ⭐ the repo!
